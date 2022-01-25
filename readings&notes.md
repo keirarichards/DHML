@@ -63,4 +63,4 @@ Readings:
 - [Formulating research questions for DH methods](https://latex-ninja.com/2020/03/29/formulating-research-questions-for-using-dh-methods/)
 - [Leveraging alignment between machine learning and intersectionality](https://www.sciencedirect.com/science/article/abs/pii/S0304422X21000115)
 - [How words lead to justice](https://www.publicbooks.org/how-words-lead-to-justice/)
-- (Textblob sentiment analyzer)[https://textblob.readthedocs.io/en/dev/advanced_usage.html]
+- [Textblob sentiment analyzer](https://textblob.readthedocs.io/en/dev/advanced_usage.html)
