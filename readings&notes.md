@@ -1,10 +1,11 @@
-## Algorithm types:
--k-means clustering
--neural networks
--probabilistic clustering
--Dimensionality reduction
--principle component analysis
--Single value decomposition
+## Readings and Notes
+### Algorithm types:
+- k-means clustering
+- neural networks
+- probabilistic clustering
+- Dimensionality reduction
+- principle component analysis
+- Single value decomposition
 
 ### Week 1:
 
