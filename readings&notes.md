@@ -25,7 +25,7 @@ Neural Networks: also known as artificial neural networks (ANNs), subfield of de
 -overfitting: a statistical model fits its source data too well, making it useless for prediction. Caused by training on one dataset too long. Low error rates in training set and high in test data
 -underfitting: model can’t determine the relationship between input and outcome, high bias and low variance 
 
-[**Machine learning for the humanities**]:
+[**Machine learning for the humanities**](https://latex-ninja.com/2020/10/25/machine-learning-for-the-humanities-a-very-short-introduction-and-a-not-so-short-reflection/):
 -Need to understand what questions your asking and be able to explain/interpret results
 -frameworks hide how ML process data to be aware of downfalls/issues
 -ML program learns from experience of a task while performance is measured (E= user marking junk, T= marking junk P= amount of emails correctly labled)
@@ -41,17 +41,17 @@ Selecting training data/measuring success
 -most standard training sets work poorly for DH (or unobvious, theoretical applications)
 -should generate a ML in DH data set (.... could I? If not what should i use?)
 
-Latent spaces of culture:
+[**Latent spaces of culture**]:(https://tedunderwood.com/2021/10/21/latent-spaces-of-culture/)
 -danger of stochastic parrots: large language models pose “social risk” & misdirected effort, don’t understand language just chinese room
 -Argues AI still beneficial to historians bc used to extrapolating meaning/patterns from text
 -”not to mimic individual language understanding, but to represent specific cultural practices (like styles or expository templates) so they can be studied and creatively remixed.” models of culture not language/intelligence
 -less worried about bias bc history is about comparing perspectives, can train models on different sources/ time periods to compare bias
 -Lightweight models less power intensive to train, more conducive for multiple models in small projects
--BERT Can be trained to categorize perspectives “designed to pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers”....WTF?
+-[BERT](https://arxiv.org/abs/1810.04805v2) Can be trained to categorize perspectives “designed to pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers”....WTF?
 -danger of oligopoly by tech companies in ML
 -CLIP “learns visual concepts from natural language supervision”
 
--Textblob sentiment analyzer
+-(Textblob sentiment analyzer)[https://textblob.readthedocs.io/en/dev/advanced_usage.html]
 
 AI Dungeon: I played this for a bit from Dr. Klein's syllabus.it is interesting and seems rather ambitious but the AI is far from perfect, the story seems to lack any continuity and it often misinterprets what you say….I wonder why that is and if it will get better with more players and more input. I assume this is a classification model looking for certain words. Can a model use both classification and regression?
 week  2:
