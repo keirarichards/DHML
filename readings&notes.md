@@ -52,15 +52,15 @@ Selecting training data/measuring success
 - danger of oligopoly by tech companies in ML
 - CLIP “learns visual concepts from natural language supervision”
 
-- (Textblob sentiment analyzer)[https://textblob.readthedocs.io/en/dev/advanced_usage.html]
-
-AI Dungeon: I played this for a bit from Dr. Klein's syllabus.it is interesting and seems rather ambitious but the AI is far from perfect, the story seems to lack any continuity and it often misinterprets what you say….I wonder why that is and if it will get better with more players and more input. I assume this is a classification model looking for certain words. Can a model use both classification and regression?
-week  2:
+[AI Dungeon](https://play.aidungeon.io/main/adventurePlay?publicId=3f94167c-0083-4fe5-8db9-5b11045c1e44): 
+- I played this for a bit from Dr. Klein's syllabus.it is interesting and seems rather ambitious but the AI is far from perfect, the story seems to lack any continuity and it often misinterprets what you say….I wonder why that is and if it will get better with more players and more input. I assume this is a classification model looking for certain words. Can a model use both classification and regression?
+### Week  2:
 
 Readings:
-[Text: a massively addressable object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)
-[Poems with pattern and VADER](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-1-quincy-troupe/)
-[Time aware language models as temporal knowledge bases](https://arxiv.org/abs/2106.15110)
-[Formulating research questions for DH methods](https://latex-ninja.com/2020/03/29/formulating-research-questions-for-using-dh-methods/)
-[Leveraging alignment between machine learning and intersectionality](https://www.sciencedirect.com/science/article/abs/pii/S0304422X21000115)
-[How words lead to justice](https://www.publicbooks.org/how-words-lead-to-justice/)
+- [Text: a massively addressable object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)
+- [Poems with pattern and VADER](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-1-quincy-troupe/)
+- [Time aware language models as temporal knowledge bases](https://arxiv.org/abs/2106.15110)
+- [Formulating research questions for DH methods](https://latex-ninja.com/2020/03/29/formulating-research-questions-for-using-dh-methods/)
+- [Leveraging alignment between machine learning and intersectionality](https://www.sciencedirect.com/science/article/abs/pii/S0304422X21000115)
+- [How words lead to justice](https://www.publicbooks.org/how-words-lead-to-justice/)
+- (Textblob sentiment analyzer)[https://textblob.readthedocs.io/en/dev/advanced_usage.html]
