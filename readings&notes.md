@@ -57,7 +57,6 @@ Selecting training data/measuring success
 ### Week  2:
 
 Readings:
-- [Text: a massively addressable object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a)
 - [Poems with pattern and VADER](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-1-quincy-troupe/)
 - [Time aware language models as temporal knowledge bases](https://arxiv.org/abs/2106.15110)
 - [Formulating research questions for DH methods](https://latex-ninja.com/2020/03/29/formulating-research-questions-for-using-dh-methods/)
