@@ -56,9 +56,10 @@ Selecting training data/measuring success
 - I played this for a bit from Dr. Klein's syllabus.it is interesting and seems rather ambitious but the AI is far from perfect, the story seems to lack any continuity and it often misinterprets what you say….I wonder why that is and if it will get better with more players and more input. I assume this is a classification model looking for certain words. Can a model use both classification and regression?
 ### Week  2:
 
+[Time aware language models as temporal knowledge bases](https://arxiv.org/abs/2106.15110)
+-CUSTOMNEWS, “webdocuments” determined to be news with date stamps. Used to train a time aware model. I feel such a model may be used to look  at change over time, very useful for historical study
 Readings:
 - [Poems with pattern and VADER](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-1-quincy-troupe/)
-- [Time aware language models as temporal knowledge bases](https://arxiv.org/abs/2106.15110)
 - [Formulating research questions for DH methods](https://latex-ninja.com/2020/03/29/formulating-research-questions-for-using-dh-methods/)
 - [Leveraging alignment between machine learning and intersectionality](https://www.sciencedirect.com/science/article/abs/pii/S0304422X21000115)
 - [How words lead to justice](https://www.publicbooks.org/how-words-lead-to-justice/)
