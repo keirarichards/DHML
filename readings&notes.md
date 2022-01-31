@@ -57,14 +57,14 @@ Selecting training data/measuring success
 ### Week  2:
 
 [Time aware language models as temporal knowledge bases](https://arxiv.org/abs/2106.15110)
--CUSTOMNEWS, “webdocuments” determined to be news with date stamps. Used to train a time aware model. I feel such a model may be used to look  at change over time, very useful for historical study
+- CUSTOMNEWS, “webdocuments” determined to be news with date stamps. Used to train a time aware model. I feel such a model may be used to look  at change over time, very useful for historical study
 
 [Leveraging alignment between machine learning and intersectionality](https://www.sciencedirect.com/science/article/abs/pii/S0304422X21000115)
--used word embedding of narratives from the us south to map relative positions of the writer in social institutions
--word embedding can reveal cultural associations 
--addresses the bias inherent in the corpus of documents
--first truly DH project ive come across focusing on machine learning
-**reference for creating my project**
+- used word embedding of narratives from the us south to map relative positions of the writer in social institutions
+- word embedding can reveal cultural associations 
+- addresses the bias inherent in the corpus of documents
+- first truly DH project ive come across focusing on machine learning
+- **reference for creating my project**
 
 Readings:
 - [Poems with pattern and VADER](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-1-quincy-troupe/)
