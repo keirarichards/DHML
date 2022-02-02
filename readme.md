@@ -1,0 +1,1 @@
+Github repository for independent study on machine learning in digital humanities (Spring 2022).
