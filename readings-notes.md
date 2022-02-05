@@ -7,8 +7,6 @@
 - principle component analysis
 - Single value decomposition
 
-### Week 1:
-
 [**IBM Machine learning basics**](https://www.ibm.com/cloud/learn/machine-learning)
 - Branch of AI trying to imitate human learning “gradually improving accuracy”
 - Used in recommendation engines and self driving cars
@@ -54,7 +52,6 @@ Selecting training data/measuring success
 
 [AI Dungeon](https://play.aidungeon.io/main/adventurePlay?publicId=3f94167c-0083-4fe5-8db9-5b11045c1e44): 
 - I played this for a bit from Dr. Klein's syllabus.it is interesting and seems rather ambitious but the AI is far from perfect, the story seems to lack any continuity and it often misinterprets what you say….I wonder why that is and if it will get better with more players and more input. I assume this is a classification model looking for certain words. Can a model use both classification and regression?
-### Week  2:
 
 [Time aware language models as temporal knowledge bases](https://arxiv.org/abs/2106.15110)
 - CUSTOMNEWS, “webdocuments” determined to be news with date stamps. Used to train a time aware model. I feel such a model may be used to look  at change over time, very useful for historical study
@@ -65,6 +62,12 @@ Selecting training data/measuring success
 - addresses the bias inherent in the corpus of documents
 - first truly DH project ive come across focusing on machine learning
 - **reference for creating my project**
+
+- [Underwood-Life Cycles of Genres](https://culturalanalytics.org/article/11061)
+- uses “well known” L2-regularized logistic regression
+- predictive models bring out aspects of categorization that would be near impossible to find by traditional means (discussion of size ex. huge, tiny reliable cue to a text being science fiction)
+- “Lexical models have no difficulty finding common formal elements that link thematically diverse works.”
+- multi variable models require creator to withhold test material from training set or it will just “memorize” the test material
 
 Readings:
 - [Poems with pattern and VADER](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-1-quincy-troupe/)
