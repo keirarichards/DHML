@@ -63,11 +63,15 @@ Selecting training data/measuring success
 - first truly DH project ive come across focusing on machine learning
 - **reference for creating my project**
 
-- [Underwood-Life Cycles of Genres](https://culturalanalytics.org/article/11061)
+[Underwood-Life Cycles of Genres](https://culturalanalytics.org/article/11061)
+example of logistic regression classification
+- model finds common aspects of labeled examples which are then applied to test material to predict classification
 - uses “well known” L2-regularized logistic regression
 - predictive models bring out aspects of categorization that would be near impossible to find by traditional means (discussion of size ex. huge, tiny reliable cue to a text being science fiction)
 - “Lexical models have no difficulty finding common formal elements that link thematically diverse works.”
 - multi variable models require creator to withhold test material from training set or it will just “memorize” the test material
+
+-uses the YOLOv4 algorithm to identify image features, making it possible to group images by contents
 
 Readings:
 - [Poems with pattern and VADER](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-1-quincy-troupe/)
