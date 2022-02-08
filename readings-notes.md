@@ -71,7 +71,10 @@ example of logistic regression classification
 - “Lexical models have no difficulty finding common formal elements that link thematically diverse works.”
 - multi variable models require creator to withhold test material from training set or it will just “memorize” the test material
 
--uses the YOLOv4 algorithm to identify image features, making it possible to group images by contents
+[Distance Viewing Toolkit](https://statsmaths.github.io/pdf/2020-dvtoolkit-joss.pdf)
+- auto extraction of content and style metadata
+- used to dredge archives and DH inquiry into visual culture, visualize through java
+- 2 parts: annotators (use small chunks of raw input) and aggregators (use all annotations and no raw data)
 
 Readings:
 - [Poems with pattern and VADER](https://scholarslab.lib.virginia.edu/blog/poems-with-pattern-and-vader-part-1-quincy-troupe/)
