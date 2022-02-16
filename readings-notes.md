@@ -81,3 +81,13 @@ Readings:
 - [Formulating research questions for DH methods](https://latex-ninja.com/2020/03/29/formulating-research-questions-for-using-dh-methods/)
 - [How words lead to justice](https://www.publicbooks.org/how-words-lead-to-justice/)
 - [Textblob sentiment analyzer](https://textblob.readthedocs.io/en/dev/advanced_usage.html)
+
+Word Embeddings:
+- [Juniper Johnson, with Julia Flanders and Sarah Connell, "Introduction to Word Embedding Models"](https://wwp.northeastern.edu/lab/wwvt/resources/introduction/index.html) (you might want to play around with their interface to to get a feel for the basics of word embeddings with a concrete corpus)
+- [Ben Schmidt, Vector Space Models for the Digital Humanities (2015)](http://bookworm.benschmidt.org/posts/2015-10-25-Word-Embeddings.html)
+- [Ben Schmidt, "Rejecting the gender binary: a vector-space operation"](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html)
+- [Ryan Heuser series of posts on "Word Vectors in the Eighteenth Century"](https://ryanheuser.org/word-vectors/) (2016)
+
+Topic Modeling:
+- [Special Issue in Journal of Digital Humanities on Topic Modeling](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/) - in particular Megan R. Brett, ["Topic Modeling: A Basic Introduction"](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/)
+- Tutorial: [Topic Modeling and MALLET](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet) *Programming Historian*
